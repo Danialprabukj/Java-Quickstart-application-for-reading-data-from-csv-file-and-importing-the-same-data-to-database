@@ -1,0 +1,5 @@
+com\kgisl\SampleQuickstart\Main.class
+com\kgisl\SampleQuickstart\model\User.class
+com\kgisl\SampleQuickstart\dao\UserDao.class
+com\kgisl\SampleQuickstart\util\CSVReader.class
+com\kgisl\SampleQuickstart\dao\UserDaoImpl.class
